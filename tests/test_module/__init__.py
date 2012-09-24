@@ -1,0 +1,1 @@
+class TestParent(object): pass
