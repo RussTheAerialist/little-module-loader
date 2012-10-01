@@ -28,17 +28,17 @@ Functions
 Finding Modules
 ---------------
 
-.. autofunction:: little.module_loader.find
+.. autofunction:: little_module_loader.find
 
 Finding Classes
 ----------------
 
-.. autofunction:: little.module_loader.class_finder
+.. autofunction:: little_module_loader.class_finder
 
 Finding Functions
 ------------------
 
-.. autofunction:: little.module_loader.function_finder
+.. autofunction:: little_module_loader.function_finder
 
 Indices and tables
 ==================
